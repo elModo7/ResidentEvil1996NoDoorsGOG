@@ -3,6 +3,8 @@ My version of the **No Doors** mod for the __GOG version__ of Resident Evil 1996
 
 It forces the value that controls door animations to terminate as soon as the next room loads, making room transitions even faster than what it's allowed in-game.
 
+⛔ Due to the nature of the program *manipulating memory from another process* (ResidentEvil.exe), it **may be flagged as a virus** by Windows Defender and other antivirus software, it's best if you *download AutoHotkey and run from source or compile the program yourself.*
+
 If someone needs a 📀PSX or 💿Gemini Rebirth compatible version please ask me.
 
 A **⭐star to the repo** would be greatly appreciated if you like this mod 😀.
