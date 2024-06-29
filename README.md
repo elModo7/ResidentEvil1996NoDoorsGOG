@@ -9,7 +9,7 @@ A **⭐star to the repo** would be greatly appreciated if you like this mod 😀
 
 
 ## Compiled Version & Downloads
-Go check **[releases](https://github.com/elModo7/Tunnel_Manager/releases)** for compiled binaries if you don't want to have AutoHotkey installed.
+Go check **[releases](https://github.com/elModo7/Resident_Evil_1996_NoDoors_GOG/releases)** for compiled binaries if you don't want to have AutoHotkey installed.
 You can also **download from this document.**
 |Version| Download |
 |--|--|
