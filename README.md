@@ -9,6 +9,9 @@ If someone needs a 📀PSX or 💿Gemini Rebirth compatible version please ask m
 
 A **⭐star to the repo** would be greatly appreciated if you like this mod 😀.
 
+## Demo Video & How-To
+[![Video Demo](https://i3.ytimg.com/vi/wnXkO6CYDBU/maxresdefault.jpg)](https://www.youtube.com/watch?v=wnXkO6CYDBU)
+
 
 ## Compiled Version & Downloads
 Go check **[releases](https://github.com/elModo7/Resident_Evil_1996_NoDoors_GOG/releases)** for compiled binaries if you don't want to have AutoHotkey installed.
@@ -21,7 +24,7 @@ You can also **download from this document.**
 
 ## How to run from source
 
-Download AutoHotkey v1 from [here](https://www.autohotkey.com/)
+Download AutoHotkey v1.1 from [here]([https://www.autohotkey.com/](https://www.autohotkey.com/download/ahk-install.exe))
 
 **Run** *"Resident Evil 1996 GOG DoorSkip Mod by elModo7.ahk"*
 
